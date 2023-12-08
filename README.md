@@ -52,12 +52,18 @@ This guide provides step-by-step instructions on how to deploy Virtual Machines 
 
 
 ### Step 5: Review and Create
-- Review your configurations.
+- Click **Review + create** review your configurations.
 - Click **Create** to deploy the VM.
 
 ## Post-Deployment Configuration
+- It'll take a few moments for Azure to create the VM.
+- You can check to see if the VM is fully deployed by searching up your Resource Group and clicking into it.
+
+![image](https://github.com/teher0094/Azure-VM-Deployment/assets/153027290/86d80d6e-134f-4e31-9f76-3d13c9144980)
+
+- You can see, I've named my Resource Group "AD.lab" and within are all the resources used to maintain the virtual machine named, "client1".   
 - Once the VM is deployed, you can connect to it via SSH or RDP.
-- Customize the VM based on your project requirements.
+- You'll need to use the amdministrator account created earlier in the configuration process and the public IP address of the VM, which can be found by clicking on the VM.
 
 ## Useful Tips
 - Monitor your VM's performance and cost in the **Azure Dashboard**.
@@ -66,6 +72,3 @@ This guide provides step-by-step instructions on how to deploy Virtual Machines 
 ## Conclusion
 Deploying VMs in Azure can significantly enhance your IT infrastructure. With this guide, you can start exploring the vast possibilities in cloud computing.
 
----
-
-Feel free to add or modify sections based on the specifics of your project or to include any additional insights you gained during your VM deployment experience.

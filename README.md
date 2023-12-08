@@ -17,8 +17,7 @@ This guide provides step-by-step instructions on how to deploy Virtual Machines 
 - Select the **+ Create** or **Create Resource Group**.
 - Within the creation page, create a name and choose a region for your resource group.
   
-- ![image](https://github.com/teher0094/Azure-VM-Deployment/assets/153027290/6b56e8dc-80b5-45e9-85dc-451d016e31af)
-
+![image](https://github.com/teher0094/Azure-VM-Deployment/assets/153027290/6b56e8dc-80b5-45e9-85dc-451d016e31af)
 
 - Note that depending on the region you choose, certain Azure services may not be available. I find that regions in the US will have the most available resources. 
 

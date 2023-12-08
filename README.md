@@ -10,9 +10,12 @@ This guide provides step-by-step instructions on how to deploy Virtual Machines 
 
 ## Step-by-Step Deployment
 
-### Step 1: Log in to Azure Portal
-- Navigate to [Azure Portal](https://portal.azure.com).
-- Enter your credentials to log in.
+### Step 1: Create a Resource Group
+- After logging into your Azure account, search for **Resource Group** using Azure's search bar.
+- This will bring you to a page which will allow you to create a Resource Group.
+- Resource Groups will allow you to manage a variety of Azure services within a single container.
+- Select the **+ Create** or **Create Resource Group**.
+- 
 
 ### Step 2: Create a New Virtual Machine
 - In the Azure portal, go to **Virtual machines** and click **+ Create**.

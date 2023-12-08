@@ -61,14 +61,16 @@ This guide provides step-by-step instructions on how to deploy Virtual Machines 
 
 ![image](https://github.com/teher0094/Azure-VM-Deployment/assets/153027290/86d80d6e-134f-4e31-9f76-3d13c9144980)
 
-- You can see, I've named my Resource Group "AD.lab" and within are all the resources used to maintain the virtual machine named, "client1".   
+- I've named my Resource Group "AD.lab" and within are all the resources used to maintain the virtual machine named, "client1".   
 - Once the VM is deployed, you can connect to it via SSH or RDP.
-- You'll need to use the amdministrator account created earlier in the configuration process and the public IP address of the VM, which can be found by clicking on the VM.
+- You'll need to use the administrator account created earlier in the configuration process and the public IP address of the VM, which can be found by clicking on the VM.
 
 ## Useful Tips
 - Monitor your VM's performance and cost in the **Azure Dashboard**.
-- Regularly update and patch your VM for security.
 
 ## Conclusion
-Deploying VMs in Azure can significantly enhance your IT infrastructure. With this guide, you can start exploring the vast possibilities in cloud computing.
+This guide showed how simple it can be to deploy Virtual Machines and is a good starting point for exploring cloud computing.
+
+## Project Analysis
+Creating this guide and doing this project helped me to learn a few features of Microsoft Azure. Also, by creating 2 virutal machines, one as a Domain Controller and the other as a Client, I've been able to create an Active Directory environment.  
 

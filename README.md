@@ -12,8 +12,8 @@ This guide provides step-by-step instructions on how to deploy Virtual Machines 
 
 ### Step 1: Create a Resource Group
 - After logging into your Azure account, search for **Resource Group** using Azure's search bar.
-- This will bring you to a page which will allow you to create a Resource Group.
-- Resource Groups will allow you to manage a variety of Azure services within a single container.
+- This will bring you to a page that allows you to create a Resource Group.
+- Resource Groups helps you to manage a variety of Azure services within a single container.
 - Select the **+ Create** or **Create Resource Group**.
 - Within the creation page, create a name and choose a region for your resource group.
   
@@ -23,7 +23,7 @@ This guide provides step-by-step instructions on how to deploy Virtual Machines 
 - Next, you can add tags to the resource then select **Review + Create** and **Create** to create the Resource Group.
 
 
-### Step 2: Create a New Virtual Machine and Configuration
+### Step 2: Create a New Virtual Machine and Configurations
 - Now that there is a Resource Group to contain the services, use the Azure search bar to search "Virtual Machines".
 - Note: There will be a variety of VM options but let's pick the one called "Virutal Machine" to keep it simple.
 - Click **+Create** and it'll take you to a configuration page. 
@@ -51,7 +51,7 @@ This guide provides step-by-step instructions on how to deploy Virtual Machines 
   ![image](https://github.com/teher0094/Azure-VM-Deployment/assets/153027290/d7c2ffc9-9025-4c77-99c6-555c4fb04d63)
 
 
-### Step 5: Review and Create
+### Step 4: Review and Create
 - Click **Review + create** review your configurations.
 - Click **Create** to deploy the VM.
 
